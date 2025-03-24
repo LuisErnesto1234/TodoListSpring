@@ -22,3 +22,4 @@ cd todo-list-spring
 ---
 ## 📷 Capturas del proyecto
 
+![Pantalla Principal](https://github.com/TU-USUARIO/todo-list-spring/issues/1/home.png)
